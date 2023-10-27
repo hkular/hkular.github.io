@@ -1,6 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Nat Hum Behav":
+  url: https://www.nature.com/nathumbehav/
+  color: "#1851a0"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Nat Comms":
+  url: https://www.nature.com/ncomms/
+  color:  "#e63324"
+
+"Comms Bio":
+  url: https://www.nature.com/commsbio/
+  color: "#e30714"
+
+"JOV":
+  url: https://jov.arvojournals.org/ 
+  color: "#e07730"
