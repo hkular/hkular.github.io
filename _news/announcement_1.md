@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Complete Steve Luck's ERP bootcamp
+Completed Steve Luck's ERP bootcamp
