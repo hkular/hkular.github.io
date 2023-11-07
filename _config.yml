@@ -232,9 +232,10 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path: "assets"
+      path: "assets/**/*.*" #"assets"
     values:
       sitemap: false
+
 
 sass:
   style: compressed
