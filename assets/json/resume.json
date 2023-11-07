@@ -1,61 +1,49 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Holly Kular",
+    "label": "Graduate Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hkular [at] ucsd [dot] edu",
+    "url": "https://hkular.github.io/",
+    "summary": "A cognitive neuroscientist interested in perception and working memory",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "San Diego",
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "University of California San Diego",
+      "position": "Graduate Student Researcher and Teaching Assistant",
+      "startDate": "2021-09",
+      "endDate": "current",
+      "summary": "Leveraging human behavioral and neural data to investigate the neural codes supporting working memory.",
       "highlights": [
-        "Relativity"
+        "Working memory"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California San Diego",
+      "url": [],
+      "area": "Psychology, Cognitive Neuroscience",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2021-09",
+      "endDate": "current",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+      
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "NEI Travel Award",
+      "date": "2023-05",
+      "awarder": "National Eye Institute",
+      "summary": "Awarded funds to present research at the Vision Science Society conference 2023"
     }
   ],
   "certificates": [],
@@ -63,12 +51,9 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "Python", "R", "Matlab", "HTML/CSS", "JavaScript"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
     }
   ],
   "interests": [],
