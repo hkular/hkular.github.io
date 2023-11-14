@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed Steve Luck's ERP bootcamp
+Completed Steve Luck's ERP bootcamp. Focusing on EEG ERP experiment design, data collection, and analysis.
