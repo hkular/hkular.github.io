@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Cognitive Neuroscientist
+subtitle: Computational Cognitive Neuroscientist
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student in the [Perception and Cognition Lab](https://serenceslab.ucsd.edu/) at University of California San Diego advised by Dr. John Serences. 
+PhD candidate in the [Perception and Cognition Lab](https://serenceslab.ucsd.edu/) at University of California San Diego advised by Dr. John Serences. 
 
 My research focus is visual working memory in humans. I apply statistical modeling to human behavioral data, utilize machine learning methods to analyze neuroimaging data, and test predictions of neural network models of working memory. I am interested in how and when working memory fails and the neural codes supporting perception and storage in working memory. 
 
