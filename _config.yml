@@ -234,7 +234,7 @@ defaults:
   - scope:
       path: "assets/**/*.*" #"assets"
     values:
-      sitemap: false
+      sitemap: true
 
 sass:
   style: compressed
