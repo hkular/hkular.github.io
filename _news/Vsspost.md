@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I presented my work [Working Memory is Robust to Distractor Interference but not Changes in Stimulus Noise](/assets/pdf/KularVSS23_poster.pdf) at the [Vision Sciences Society](https://www.visionsciences.org/) Conference 2023
+I presented my work [Working Memory is Robust to Distractor Interference but not Changes in Stimulus Noise](https://jov.arvojournals.org/article.aspx?articleid=2792285) at the [Vision Sciences Society](https://www.visionsciences.org/) Conference 2023
